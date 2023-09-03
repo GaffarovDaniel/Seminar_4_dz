@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\bin\Debug\net7.0\Number_29.exe
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\bin\Debug\net7.0\Number_29.deps.json
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\bin\Debug\net7.0\Number_29.runtimeconfig.json
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\bin\Debug\net7.0\Number_29.dll
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\bin\Debug\net7.0\Number_29.pdb
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.dll
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\refint\Number_29.dll
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.pdb
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\Number_29.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Рабочий стол\HomeWork\Number_29\obj\Debug\net7.0\ref\Number_29.dll
